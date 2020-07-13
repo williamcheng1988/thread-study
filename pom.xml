@@ -32,5 +32,6 @@
         <module>thread-base</module>
         <module>thread-pool</module>
         <module>thread-juc</module>
-      </modules>
+    <module>thread-juc-blockin-queue</module>
+  </modules>
 </project>
